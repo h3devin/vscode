@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontSize": 16,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.insertSpaces": false,
+    "telemetry.enableTelemetry": false,
+    "files.associations": {
+        "*.theme": "php",
+        "*.module": "php"
+    },
+    "explorer.openEditors.visible": 0,
+    "editor.lineHeight": 32,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "tslint.rulesDirectory": "./node_modules/codelyzer",
+}
